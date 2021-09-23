@@ -35,5 +35,4 @@ Please use the following websites for guidance:
 
 * https://modern-web.dev/
 * https://open-wc.org/
-* https://lit-element.polymer-project.org/
-* https://lit-html.polymer-project.org/
+* https://lit.dev/
