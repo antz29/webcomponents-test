@@ -31,8 +31,8 @@ See the video below to see the interaction design.
 
 ## Guidance
 
-Please use the following websites for guidance:
+Please use the following websites for guidance, as a hint, we use JavaScript not TypeScript.
 
+* https://lit.dev/
 * https://modern-web.dev/
 * https://open-wc.org/
-* https://lit.dev/
