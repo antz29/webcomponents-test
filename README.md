@@ -28,11 +28,3 @@ You are to build a web component based image gallery.
 See the video below to see the interaction design.
 
 [![Specification Video](http://img.youtube.com/vi/tYxp63YxDEE/0.jpg)](http://www.youtube.com/watch?v=tYxp63YxDEE)
-
-## Guidance
-
-Please use the following websites for guidance, as a hint, we use JavaScript not TypeScript.
-
-* https://lit.dev/
-* https://modern-web.dev/
-* https://open-wc.org/
