@@ -12,7 +12,6 @@ This simple project should introduce you to some of the ways we use front end te
   5. Put your tests in the `test` folder.
   6. Place a demo of your working web component in the `demo` folder.
   7. You may use whatever testing method / tool chain you are most familiar with.
-     _We use the open-wc standards linked below._
   8. We don't expect 100% code coverage, we expect well tested code.
      _https://medium.com/@nicklee1/why-test-code-coverage-targets-are-a-bad-idea-1b9b8ef711ef_
   9. The specification is below.
