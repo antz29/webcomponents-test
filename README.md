@@ -1,4 +1,4 @@
-# Web Components Exercise
+# JavaScript Exercise
 
 This simple project should introduce you to some of the ways we use front end technologies.
 
